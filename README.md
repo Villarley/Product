@@ -6,7 +6,7 @@ Haibu is a decentralized social media platform built on the **Celestia network**
 Our **mission** is to redefine social networking by giving users control over their data, interactions, and governance. Our **vision** is to create a social ecosystem where engagement is rewarded, community-driven moderation ensures fairness, and decentralization guarantees freedom of expression without reliance on a central authority.  
 
 ## 🌟 Key Features  
-- **🗳️ DAO Governance:** Haibu is community-driven, meaning key decisions—such as feature implementations or policy changes—are made through voting. Voting power is weighted based on user engagement and contribution levels.  
+- **🗳️ DAO Governance:** Haibu is community-driven, meaning key decisions —such as feature implementations— are made through voting. Voting power is weighted based on user engagement and contribution levels.  
 - **🏆 Gamified Engagement:** Users earn points by actively participating in the platform. As they accumulate points, they **level up**, gaining greater influence in governance decisions.  
 - **💬 Familiar Social Interactions:** Post **"Hai"** (similar to tweets), like, comment, and share content while enjoying a decentralized and censorship-resistant experience.  
 - **🔒 Blockchain-Powered Security:** Built on Celestia, Haibu ensures **data integrity, privacy, and protection against censorship**, unlike centralized platforms where data control is in the hands of corporations.  
@@ -18,7 +18,7 @@ Haibu is built using cutting-edge Web3 technologies to ensure decentralization, 
 - **SQL** → Manages structured data efficiently to ensure smooth user interactions.  
 
 ## 🔮 Project Future  
-Our short-term focus is on delivering a functional **MVP (Minimum Viable Product)** by **February 28th**, which will include the core social networking features, DAO governance prototype, and engagement system.  
+Our focus is on delivering a solid and functional **MVP** by the end of **Celestia´s Mammothon**, which will include the core social networking features, DAO governance prototype, and engagement system.  
 
 Future iterations will introduce:  
 - **🚀 UX/UI Enhancements:** Improving design and user experience based on community feedback.  
