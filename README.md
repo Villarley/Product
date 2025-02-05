@@ -1,4 +1,4 @@
-# About Haibu  
+# About Haibu 🐝🍯 
 
 ## 🚀 Product Overview  
 Haibu is a decentralized social media platform built on the **Celestia network**, designed to provide a **secure, transparent, and community-driven** alternative to traditional social networks. Unlike centralized platforms that control content and decisions, Haibu operates with a DAO-like governance model, where users collectively make decisions about the platform's evolution.  
