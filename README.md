@@ -7,7 +7,7 @@ Our **mission** is to redefine social networking by giving users control over th
 
 ## 🌟 Key Features  
 - **🗳️ DAO Governance:** Haibu is community-driven, meaning key decisions —such as feature implementations— are made through voting. Voting power is weighted based on user engagement and contribution levels.  
-- **🏆 Gamified Engagement:** Users earn points by actively participating in the platform. As they accumulate points, they **level up**, gaining greater influence in governance decisions.  
+- **🏆 Gamified Engagement:** Users earn $hai tokens by actively participating in the platform. As they accumulate tokens, they **level up**, gaining greater voice in governance decisions. 
 - **💬 Familiar Social Interactions:** Post **"Hai"** (similar to tweets), like, comment, and share content while enjoying a decentralized and censorship-resistant experience.  
 - **🔒 Blockchain-Powered Security:** Built on Celestia, Haibu ensures **data integrity, privacy, and protection against censorship**, unlike centralized platforms where data control is in the hands of corporations.  
 
@@ -23,13 +23,12 @@ Our focus is on delivering a solid and functional **MVP** by the end of **Celest
 Future iterations will introduce:  
 - **🚀 UX/UI Enhancements:** Improving design and user experience based on community feedback.  
 - **🔐 Advanced Security Measures:** Strengthening privacy controls and data protection.  
-- **📈 Monetization Expansion:** Introducing **subscription plans** and **targeted advertising** as key revenue streams.  
+- **📈 Monetization Expansion:** Introducing **targeted advertising** as key revenue streams.  
 - **🌍 Community Tools:** Developing additional governance mechanisms and interactive features to expand Haibu’s ecosystem.  
 
 ## 💰 Monetization Strategy  
-Haibu will generate revenue through a **hybrid monetization model** that balances user experience and sustainability:  
-- **Premium Subscription Model:** Users can opt for a **paid subscription** to access exclusive features and enjoy an ad-free experience.  
-- **Targeted Advertising for Non-Premium Users:** Businesses and projects can sponsor **ads** displayed to non-premium users, ensuring a sustainable income stream while maintaining user privacy and decentralization principles.  
+Haibu will generate revenue through a **ad-based monetization model** that balances user experience and sustainability:  
+- **Targeted Advertising for Users:** Businesses and projects can sponsor **ads** displayed to all the users, ensuring a sustainable income stream while maintaining user privacy and decentralization principles.  
 
 ## 👥 Team & Contributions  
 - 🎨 Sebastián Mena: UI/UX, Project Management
